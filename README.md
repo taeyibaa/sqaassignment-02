@@ -2,7 +2,7 @@
 TOPIC: Create Repository 
 Group Members 
 1-Tayyaba Batool (04161913021)
-https://github.com/taeyibaa/tayyababatool1repository
+https://github.com/taeyibaa/tayyababatool
 
 2-Tehreem Raza (09162013002)
 https://github.com/tehreemraza/tehreemraza1repository
