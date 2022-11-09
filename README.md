@@ -8,4 +8,4 @@ https://github.com/taeyibaa/tayyababatool1
 https://github.com/tehreemraza/tehreemraza1repository
 
 3-Syed Akhtar Abbas (09162013019)
-https://github.com/akhtarabbas/akhtarabbas1repository
+https://github.com/syedakhtarabbas/akhtarabbas1repository
